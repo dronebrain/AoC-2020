@@ -1,4 +1,4 @@
-/* Day 5 (Part B)
+/* Day 6 (Part B)
    Run in console of AoC input window 
 */
 values=document.body.children[0].innerHTML
